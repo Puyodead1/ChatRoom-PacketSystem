@@ -5,9 +5,9 @@ import java.io.DataOutputStream;
 import java.io.IOException;
 import optic_fusion1.packets.IPacket;
 
-public class HeartBeatPacket implements IPacket {
+public class HeartbeatPacket implements IPacket {
 
-  public HeartBeatPacket() {
+  public HeartbeatPacket() {
   }
 
   @Override
